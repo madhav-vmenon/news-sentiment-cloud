@@ -29,7 +29,7 @@ project/
 │   └── upload_s3.py
 ├── utils/
 │   └── config.py
-├── raw_news.json       # created after fetching articles
+├── raw_news.json      
 ├── cleaned_articles.csv
 ├── articles_sentiment.csv
 ├── requirements.txt
