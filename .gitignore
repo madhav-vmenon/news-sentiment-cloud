@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.venv1/
+venv/
+env/
+
+# macOS junk
+.DS_Store
+
+# Environment variables / secrets
+.env
+
+# Local data files (if you don't want to commit them)
+raw_news.json
+cleaned_articles.csv
+articles_sentiment.csv

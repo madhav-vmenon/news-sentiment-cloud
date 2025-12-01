@@ -1,0 +1,6 @@
+requests
+pandas
+newspaper3k
+textblob
+boto3
+python-dotenv
